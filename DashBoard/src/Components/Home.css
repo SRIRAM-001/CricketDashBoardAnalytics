@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+.abt-text
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #f31164;
+    
+}
+.content
+{
+    position: absolute;
+    top:25%;
+}
+.menu
+{
+    color:rgb(221, 35, 82);
+}
+.hist
+{
+    height: 500px;
+    max-width: 400px;
+}
+.bar
+{
+    width: 100%;
+}
+

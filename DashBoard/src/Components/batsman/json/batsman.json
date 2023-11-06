@@ -1,0 +1,99 @@
+
+    [
+    {"name":"suryakumar",
+    "id":0,
+     "strikerate":[
+    
+    {
+        
+        "id":1,
+        "t20-strike-rate":56,
+        "odi-strike-rate":175.76,
+        "test-strike-rate":175.76
+    }
+    ,
+    {
+        
+        "id":2,
+        "t20-strike-rate":123.76,
+        "odi-strike-rate":175.76,
+        "test-strike-rate":175.76
+
+    },
+    {
+        
+        "id":3,
+        "t20-strike-rate":152.76,
+        "odi-strike-rate":175.76,
+        "test-strike-rate":175.76
+
+    },
+    {
+        
+        "id":4,
+        "t20-strike-rate":123.76,
+        "odi-strike-rate":0,
+        "test-strike-rate":175.76
+
+    },
+    {
+        
+        "id":5,
+        "t20-strike-rate":113.67,
+        "odi-strike-rate":175.76,
+        "test-strike-rate":175.76
+
+    }
+]
+
+},
+{
+"name":"rohit",
+"id":1,
+"strikerate":[
+    
+    {
+       
+        "id":1,
+        "t20-strike-rate":175.76,
+        "odi-strike-rate":175.76,
+        "test-strike-rate":175.76
+    }
+    ,
+    {
+       
+        "id":2,
+        "t20-strike-rate":123.76,
+        "odi-strike-rate":135.76,
+        "test-strike-rate":143.76
+
+    },
+    {
+        
+        "id":3,
+        "t20-strike-rate":152.76,
+        "odi-strike-rate":115.76,
+        "test-strike-rate":175.76
+
+    },
+    {
+        
+        "id":4,
+        "t20-strike-rate":123.76,
+        "odi-strike-rate":155.76,
+        "test-strike-rate":113.76
+
+    },
+    {
+        
+        "id":5,
+        "t20-strike-rate":110.76,
+        "odi-strike-rate":158.76,
+        "test-strike-rate":110.76
+
+    }
+]
+}  
+    ]
+    
+
